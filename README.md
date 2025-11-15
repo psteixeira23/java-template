@@ -20,9 +20,10 @@ Designed for professional Java projects following clean code and CI/CD best prac
 ## 🚀 Continuous Integration
 
 [![Java CI with Maven + SonarCloud](https://github.com/psteixeira23/java-template/actions/workflows/maven.yml/badge.svg)](https://github.com/psteixeira23/java-template/actions/workflows/maven.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=coverage)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=alert_status&token=32946beb29af37856301d9c18b4631f07b674a97)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=coverage&token=32946beb29af37856301d9c18b4631f07b674a97)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=code_smells&token=32946beb29af37856301d9c18b4631f07b674a97)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=bugs&token=32946beb29af37856301d9c18b4631f07b674a97)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
 
 ---
 
