@@ -19,9 +19,10 @@ Designed for professional Java projects following clean code and CI/CD best prac
 
 ## 🚀 Continuous Integration
 
-[![Build](https://github.com/psteixeira23/java-template/actions/workflows/maven.yml/badge.svg)](https://github.com/psteixeira23/java-template/actions/workflows/maven.yml)
+[![Java CI with Maven + SonarCloud](https://github.com/psteixeira23/java-template/actions/workflows/maven.yml/badge.svg)](https://github.com/psteixeira23/java-template/actions/workflows/maven.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=coverage)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=psteixeira23_java-template&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=psteixeira23_java-template)
 
 ---
 
